@@ -1,9 +1,8 @@
 # 🧥 AI Fashion Recommender System
 
-### This project is an AI-driven fashion recommendation system built with Streamlit, LLMs, and vector databases. It analyzes user fashion queries, enhances them 
- using a language model, and recommends relevant items using semantic similarity and curated vector search then filter them by LLMs.
----
+This project is an AI-driven fashion recommendation system built with Streamlit, LLMs, and vector databases. It analyzes user fashion queries, enhances them using a language model, and recommends relevant items using semantic similarity and curated vector search then filter them by LLMs.
 
+---
 ## 📌 Project Overview
 
 This project implements an intelligent fashion recommendation system with:
