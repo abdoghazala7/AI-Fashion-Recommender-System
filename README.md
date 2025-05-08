@@ -1,10 +1,7 @@
 # 🧥 AI Fashion Recommender System
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 ) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B46?style=for-the-badge&logo=streamlit&logoColor=white )
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white )
-
-This project is an AI-driven fashion recommendation system built with Streamlit, LLMs, and vector databases. It analyzes user fashion queries, enhances them using a language model, and recommends relevant items using semantic similarity and curated vector search then filter them by LLMs.
+### This project is an AI-driven fashion recommendation system built with Streamlit, LLMs, and vector databases. It analyzes user fashion queries, enhances them 
+ using a language model, and recommends relevant items using semantic similarity and curated vector search then filter them by LLMs.
 ---
 
 ## 📌 Project Overview
