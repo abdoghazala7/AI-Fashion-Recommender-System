@@ -90,5 +90,5 @@ Choose one of three input methods:
 <h3 align="center">Chat UI</h3>
 
 <p align="center">
-  <img src="chat-ui.png" alt="Chat Interface" width="800">
+  <img src="chat-ui.png" alt="Chat Interface" width="1000">
 </p>
