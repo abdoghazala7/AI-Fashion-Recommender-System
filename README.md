@@ -67,6 +67,12 @@ This project was made possible thanks to the contributions and support of the fo
    ```bash
    streamlit run app.py  
 
+### Direct Usage:
+
+If you don't want to deploy the project locally, you can access the live version directly:
+
+- Visit the hosted application at: [Deployed App URL](https://ai-fashion-recommender-system.streamlit.app/)
+
 ## Interface Options
 Choose one of three input methods:
 
