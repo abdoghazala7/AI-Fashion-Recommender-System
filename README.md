@@ -90,8 +90,7 @@ Choose one of three input methods:
 - First run may take minutes to build vector database
 - Requires stable internet connection for API calls
 - Can process both local images and URLs
-- Results quality depends on image clarity and query specificity
-- Our data can be bad for some items
+- Some recommendations might be inaccurate due to limited data and incomplete descriptions used for similarity matching.
 
 <h3 align="center">Chat UI</h3>
 
